@@ -8,6 +8,8 @@
 brew install --cask edwardrem/reachly/reachly
 ```
 
+Installed Reachly from the DMG before? Quit it and move `Reachly.app` to the Trash first, or Homebrew stops because the app is already there. Your hosts, chats and settings are kept.
+
 Reachly is not notarized yet, so macOS blocks the first launch. Open it once, then click **Open Anyway** in System Settings › Privacy & Security, or run:
 
 ```sh
