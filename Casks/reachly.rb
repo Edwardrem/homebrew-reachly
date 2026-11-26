@@ -1,6 +1,6 @@
 cask "reachly" do
-  version "1.1.2"
-  sha256 "8ae7148614d8559175b13520f5c3ac81c16948d41bd4ba875477fb7b7d2ec43d"
+  version "1.1.4"
+  sha256 "21f12084a55dfa049859cfed41856b315d624df8d50c8a58b806ea2994418796"
 
   url "https://github.com/Edwardrem/Reachly/releases/download/v#{version}/Reachly-#{version}.dmg"
   name "Reachly"
